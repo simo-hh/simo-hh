@@ -1,9 +1,16 @@
 ## 👋 About Me
 
-Hi, I'm Kai, a passionate Software Engineer experienced in both frontend and backend development. I enjoy building robust, scalable applications and exploring new technologies. Always eager to learn, collaborate, and solve challenging problems.
+Hi, I'm Simon, a passionate Software Engineer experienced in both frontend and backend development. I enjoy building robust, scalable applications and exploring new technologies. Always eager to learn, collaborate, and solve challenging problems.
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+<p>
+<a href="mailto:simonhu025@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/kaixuan-hu532922" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
+
 
 ## 🛠️ Tech Stack
 
